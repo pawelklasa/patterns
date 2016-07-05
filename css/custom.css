@@ -1,3 +1,115 @@
 h1 {
 	color: #dcdcdc;
 }
+
+.btn-primary {
+  font-size: 18px;
+  background-color: #1e4e9d;
+  width: 300px;
+  height: 45px;
+  border-radius: 3px;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  border: 0px;
+}
+
+.btn-primary:hover {
+  background-color: #2c67c7;
+  text-decoration: underline;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  -webkit-transition: all 0.s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  border: 0px;
+  
+}
+
+.btn-primary:hover:active {
+  background-color: #1e4e9d;
+}
+
+.btn-primary:focus {
+  background-color: #1e4e9d;
+}
+
+.btn-primary2 {
+  margin-left: 40px;
+  color: #fff;
+  font-size: 18px;
+  background-color: #1e4e9d;
+  width: 300px;
+  height: 45px;
+  border-radius: 3px;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  -webkit-transition: all 0.1s ease;
+  -moz-transition: all 0.1s ease;
+  -ms-transition: all 0.1s ease;
+  -o-transition: all 0.1s ease;
+  transition: all 0.1s ease;
+  border: 0px;
+}
+
+.btn-primary2:hover {
+  color: #fff;
+  background-color: #2c67c7;
+  text-decoration: underline;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  -webkit-transition: all 0.1s ease;
+  -moz-transition: all 0.1s ease;
+  -ms-transition: all 0.1s ease;
+  -o-transition: all 0.1s ease;
+  transition: all 0.1s ease;
+  border: 0px;
+}
+
+.btn-primary2:hover:active {
+  color: #fff;
+  background-color: #1e4e9d;
+}
+
+.btn-primary2:focus {
+  color: #fff;
+  background-color: #1e4e9d;
+}
+
+.btn-primary3 {
+  margin-left: 40px;
+  color: #fff;
+  font-size: 18px;
+  background-color: #1e4e9d;
+  width: 300px;
+  height: 45px;
+  border-radius: 3px;
+  border: 0px;
+}
+
+.btn-primary3:hover {
+  color: #fff;
+  background-color: #2c67c7;
+  text-decoration: underline;
+  border: 0px;
+}
+
+.btn-primary3:hover:active {
+  color: #fff;
+  background-color: #1e4e9d;
+}
+
+.btn-primary3:focus {
+  color: #fff;
+  background-color: #1e4e9d;
+}
