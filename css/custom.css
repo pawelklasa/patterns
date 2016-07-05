@@ -57,12 +57,12 @@ p {
 }
 
 .zoomimg:hover img {
-  transform: scale(1.2, 1.2);
+  transform: scale(1.1, 1.1);
 }
 
 .zoomimg:hover {
   cursor: pointer;
-  background-size: 110% 110%;
+  background-size: 105% 105%;
 }
 
 .content {
