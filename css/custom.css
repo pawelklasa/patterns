@@ -1,8 +1,17 @@
+@font-face {
+  font-family: 'Omnes-Light';
+  src: url('fonts/Omnes-Light.otf') format('otf'),
+      
+}
+
+
 h1 {
+	font-family: 'Omnes-Light', sans-serif;
 	color: #fff;
 }
 
 h2 {
+	font-family: 'Omnes-Light', sans-serif;
 	color: #25a970;
 	margin-left: 10px;
 	margin-top: 0px;
@@ -237,49 +246,29 @@ p {
 
 /*green*/
 
-.card-green {
- 
+.box2 {
 	padding-top: 30px;
 	padding-bottom: 30px;
 	padding-right: 20px;
-	padding-left: 20px;
-	background-color: #fff;
-	border: solid 2px #25a970;
+	border: 2px solid #25a970;
+	padding-left: 120px;
+	position: relative;
 }
 
-.card-green p{
-	font-size: 16px;
-	color: #333;
-
+.box2 h1{
+	margin-top: 0px;
 }
 
-.card-green h2{
-	margin-bottom: 10px;
-	margin-left: 0px;
-}
+.box__icon {
 
-.text {
+	position: absolute;
 	
-	margin-left: 100px;
+	left: 20px;
+
 }
 
-img {
-	float: left;
-}
 
-.image {
-	margin-top: -30px;
-	margin-right: -20px;
-	float: right;
-}
 
-ul {
-	font-size: 16px;
-	margin-left: -20px;
-}
-
-.button {
-	width: 300px;
-	
-
+.box__content {
+	background: green;
 }
