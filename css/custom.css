@@ -276,3 +276,44 @@ p {
 .box__content {
 	background: green;
 }
+
+/*colours*/
+.color-box {
+    width: 300px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+.darkest {
+  background: #394348;
+}
+
+.darker {
+  background: #666;
+}
+
+.light {
+  background: #eee;
+}
+
+.lighter {
+  background: #fafafa;
+}
+
+.lightest {
+  background: #e9e9e9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
